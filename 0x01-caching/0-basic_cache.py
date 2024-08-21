@@ -6,7 +6,7 @@ from base_caching import BaseCaching
 
 
 class BasicCache(BaseCaching):
-    """ Basic Cache Class.
+    """ BasicCache Class.
     """
 
     def put(self, key, item):
